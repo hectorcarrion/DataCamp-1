@@ -6,7 +6,7 @@ Team:
 Hector Carrion
 Carla Ramos
 Ricardo Gonzalez
-Angle Romero
+Angel Romero
 
 For Department of Computer Science
 CCOM4029 - High-Level Languages
